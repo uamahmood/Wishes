@@ -1,0 +1,65 @@
+*{
+    margin:0 auto;
+}
+
+#container{
+    padding: 20px;
+    line-height:3em;
+    width: 970px;
+    
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+
+header > div {
+    display: flex;
+}
+
+#headerButton2{
+    width: 100px;
+    height: 35px;
+    background-color: white;
+    box-shadow: 4px 4px black;
+    margin-left: 20px;
+    
+
+}
+
+#headerButton1{
+    width: 100px;
+    height: 35px;
+    background-color: #ebc9ff;
+    box-shadow: 4px 4px black;
+    margin-left: 20px;
+
+}
+
+table {
+    width:100%;
+    text-align: center;
+    border:3px solid black;
+}
+
+th {
+    background-color: #d6d6d6; 
+    border:2px solid black;
+    font-size: 18px;
+}
+td {
+    border:2px solid black;
+    font-size: 18px;
+}
+
+
+#wishTable{
+    margin-top:30px;
+
+}
+
+#grantedTable{
+    margin-top:30px;
+}

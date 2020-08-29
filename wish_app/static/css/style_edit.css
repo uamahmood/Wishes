@@ -1,0 +1,36 @@
+*{
+    margin:0 auto;
+}
+
+#container{
+    padding: 20px;
+    line-height:3em;
+    width: 970px;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+}
+
+input{
+    height: 25px;
+}
+
+p {
+    font-size: 20px;
+}
+
+button {
+    width:120px;
+    height:25px;
+    background-color: white;
+    box-shadow: 4px 4px black;
+
+}
+
+#main {
+    border: 3px solid black;
+    padding:20px;
+    padding-left: 30px;
+}
